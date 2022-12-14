@@ -15,6 +15,7 @@ class FunctionConfig:
     Common parameters to specify for Github workflows.
     Full list: https://github.com/cognitedata/function-action-oidc#function-metadata-in-github-workflow
     """
+    # This is a comment
 
     deployment_client_id: str
     deployment_tenant_id: str
