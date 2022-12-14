@@ -19,7 +19,7 @@ extraction pipeline in the Bootcamp.
 
 # oee_timeseries
 
-This function calculates the overall equipment effectiveness (OEE) using the values from timeseries extracted above,
+This function calculates the overall equipment effectiveness (OEE) using the values from timeseriesextracted above,
 primarily:
 
 * good
@@ -28,3 +28,5 @@ primarily:
 * planned status
 
 More details on these timeseries and the calculation is found in the [CDF Enablement Bootcamp](https://docs-bootcamp.app.cogniteapp.com/) documentation.
+
+This is required to make the changes .
